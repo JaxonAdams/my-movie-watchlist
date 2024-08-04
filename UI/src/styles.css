@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+.font-primary {
+    color: #000000;
+    text-shadow: none;
+}
+
+.font-primary-emphasis {
+    color: #c50000;
+}
